@@ -1,0 +1,125 @@
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+04;TND980847024;EXCEL TSD INC;;552 RIVERGATE DRIVE;;MEMPHIS;TN;38109;SHELBY;NATH
+AN  JENKINS;9017748146 ;15.5981611                                              
+                                                                                
+06;LAD000777201;CHEMICAL WASTE MANAGEMENT;7170;JOHN BRANNON ROAD;;SULPHUR;LA;706
+65;CALCASIEU;FLOYD J MITCHELL;3375833661 ;65561.879725                          
+                                                                                
+06;ARD006354161;REYNOLDS METALS COMPANY GUM SPRINGS PLANT;500;EAST REYNOLDS ROAD
+;;ARKADELPHIA;AR;71923;CLARK;THOMAS K THOMAS;8702452721 ;45221.39               
+                                                                                
+10;WA7890008967;US DEPT OF ENERGY HANFORD FACILITY;;HANFORD FACILITY;;RICHLAND;W
+A;99352;BENTON;STEPHEN R WEIL;509 3720879 ;1281.0838632                         
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+                                                                                
+06;TXD988088464;WASTE CONTROL SPECIALISTS LLC;;9998 W STATE HIGHWAY 176;;ANDREWS
+;TX;79714;ANDREWS;ELICIA B  SANCHEZ;432-5258500 ;37.88                          
+                                                                                
+08;UTD991301748;CLEAN HARBORS GRASSY MOUNTAIN, LLC.;;3 MILES EAST, 7 MILES NORTH
+ KN;OLLS EXIT, OFF I-80;KNOLLS;UT;84029;TOOELE;SHANE B WHITNEY;4358848976 ;73113
+.0891099                                                                        
+                                                                                
+08;COD991300484;CLEAN HARBORS DEER TRAIL LLC;108555;E HIGHWAY 36;;DEER TRAIL;CO;
+80105;ADAMS;JOHN H KEHOE;9703862262 224;29700.3985886                           
+                                                                                
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+09;CAT000646117;CHEMICAL WASTE MANAGEMENT, INC.;;35251 OLD SKYLINE ROAD;;KETTLEM
+AN CITY;CA;93239;ALAMEDA;PAUL  TUREK;5593869711 ;200.36                         
+                                                                                
+10;ORD089452353;CHEMICAL WASTE MANAGEMENT OF THE NW;;17629 CEDAR SPRINGS LN;;ARL
+INGTON;OR;97812;GILLIAM;JAMES L DENSON JR;(541)454-2030 ;39624.751              
+                                                                                
+10;IDD073114654;US ECOLOGY IDAHO INC SITE B;20400;LEMLEY RD;;GRAND VIEW;ID;83624
+;OWYHEE;TERRY A GEIS;2088342275 631;112054.0025                                 
+                                                                                
+03;PAD004835146;MAX ENVIRONMENTAL - YUKON FACILITY;233;MAX LN;;YUKON;PA;15698;WE
+STMORELAND;JAMES  SCHLAEGLE;7247223500 110;37059.77                             
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+                                                                                
+04;NCD980842132;ECOFLO,INC.;2750;PATTERSON STREET;;GREENSBORO;NC;27407;GUILFORD;
+SCOTT G SWOPE;3368557925 239;226.6275                                           
+                                                                                
+05;MID048090633;WAYNE DISPOSAL INC;;49350 N I94 SERVICE DR;;BELLEVILLE;MI;48111;
+WAYNE;MICHAEL J TAKACS;7346996286 ;61357.2082117                                
+                                                                                
+06;TXD069452340;US ECOLOGY TEXAS INC;;3277 COUNTY ROAD 69;;ROBSTOWN;TX;78380;NUE
+CES;MARK  JOHN;361-3873518-103 ;38376.234005                                    
+                                                                                
+09;CAD980887418;EVERGREEN OIL, INC.;6880;SMITH AVE;;NEWARK;CA;94560;ALAMEDA;BILL
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+Y  SAINZ;5107954400 135;3.45                                                    
+                                                                                
+02;NYD049836679;CWM CHEMICAL SERVICES LLC;1550;BALMER RD;;MODEL CITY;NY;14107;NI
+AGARA;KEVIN  SHEEHAN;7162860269 ;42264.768465                                   
+                                                                                
+04;KYD005009923;CALGON CARBON CORPORATION;15024;US 23;;CATLETTSBURG;KY;41129;BOY
+D;ERIC  NASH;6067398671 2332;12                                                 
+                                                                                
+04;GAD093380814;PERMA-FIX OF SOUTH GEORGIA;1612;1612 JAMES P. RODGERS CIR.;;VALD
+OSTA;GA;31601;LOWNDES;KURT  FOGLEMAN;3523951356 ;.07837                         
+                                                                                
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+04;ALD000622464;CHEMICAL WASTE MANAGEMENT;36964;ALABAMA HIGHWAY 17 N;;EMELLE;AL;
+35459;SUMTER;ROBERT  ANTHONY;2056528179 ;42845.941156                           
+                                                                                
+06;OKD065438376;CLEAN HARBORS LONE MOUNTAIN LLC;;5 MILES EAST, 1 MILE NORTH OF;H
+WY JCT 412 AND 281;ORIENTA;OK;73737;MAJOR;ALAN J ADAIR;5806973500 3578;84468.185
+95                                                                              
+                                                                                
+09;NV3890090001;U. S. DOE, NNSA/NSO;;NEVADA NATL SEC SITE,US HWY 95;;MERCURY;NV;
+89023;NYE;KEN  SMALL;702-295-1933 ;751.976                                      
+                                                                                
+09;NVT330010000;US ECOLOGY NEVADA INC;;HWY 95, 11 MI S OF BEATTY;;BEATTY;NV;8900
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+3;NYE;SCOTT  WISNIEWSKI;775-553-2203 127;60851.795015                           
+                                                                                
+04;AL2640090005;TVA POWER SERVICE CENTER;;HWY 133 N NEAR WILSON DAM;;MUSCLE SHOA
+LS;AL;356621010;COLBERT;STACEY S MCCLUSKEY;2563147872 ;19.7700196               
+                                                                                
+05;ILD000805812;PEORIA DISPOSAL CO INC;;4349 SOUTHPORT RD;;PEORIA;IL;61615;PEORI
+A;RON  WELK;3096764893 ;292.0281989                                             
+                                                                                
+06;NM4890139088;USDOE WASTE ISOLATION PILOT PLANT;34;LOUIS WHITLOCK DRIVE;;CARLS
+BAD;NM;88220;EDDY;DANIEL J FERGUSON;5752348128 ;4039.3103209                    
+                                                                                
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+08;UTD982598898;ENERGYSOLUTIONS LLC;;U.S. INTERSTATE 80, EXIT 49, O;NE MILE SOUT
+H OF CLIVE;GRANTSVILLE;UT;84029;TOOELE;TIMOTHY L ORTON;8016492144 ;3936.124985  
+                                                                                
+05;OHD045243706;ENVIROSAFE SERVICES OF OHIO INC;;876 OTTER CREEK ROAD;;OREGON;OH
+;43616;LUCAS;KENNETH L HUMPHREY;4196983500 246;48601.6985                       
+                                                                                
+05;IND980503890;HERITAGE ENVIRONMENTAL SERVICES, LLC;4370;W CR 1275 N;;ROACHDALE
+;IN;46172;PUTNAM;CHRIS  RAY;7654352704 ;100114.67                               
+                                                                                
+05;MID000724831;MICHIGAN DISPOSAL INC;;49350 NORTH I94 SERVICE DRIVE;;BELLEVILLE
+;MI;48111;WAYNE;MELINDA A KEILLOR;7346996287 ;775.5                             
+
+HREPORT_UNIV5.REGION||';'||HREPORT_UNIV5.HANDLER_ID||';'||HREPORT_UNIV5.HANDLER_
+--------------------------------------------------------------------------------
+                                                                                
+09;CAD980675276;CLEAN HARBORS BUTTONWILLOW, LLC;2500;WEST LOKERN ROAD;;BUTTONWIL
+LOW;CA;93206;KERN;DAVID B NIELSEN;6617626200 ;23959.288285                      
+                                                                                
+09;CAD088504881;KINSBURSKY BROTHERS SUPPLY INC.;1314;NORTH ANAHEIM BLVD.;;ANAHEI
+M;CA;928011201;ORANGE;PAUL D JOHNSON;7147388516 204;.617                        
+                                                                                
+
+31 rows selected.
+
